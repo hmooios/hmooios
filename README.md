@@ -1,5 +1,5 @@
 - 👋 Hi, I’m interested in iOS development.
-- 🌱 I’m currently learning UIKit and SwiftUI
+- 🌱 I’m currently learning UIKit and SwiftUI.
 
 
 <!---
